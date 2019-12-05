@@ -20,8 +20,8 @@ In this repo `./number/number.css`, define section number.
 To define a new theme with section number based on an existing `[theme].css`, just create `[theme]-number.css`, and write below into it.
 
 ```css
-@import "number/number.css"
-@import "[theme].css"
+@import "number/number.css";
+@import "[theme].css";
 ```
 
 ### Finetune base theme
@@ -29,7 +29,7 @@ To define a new theme with section number based on an existing `[theme].css`, ju
 To finetune an existing base theme `[theme].css`, just create `[new-theme].css`, and write below into it.
 
 ```css
-@import "[theme].css"
+@import "[theme].css";
 
 /* the change added to the base theme */
 ```
