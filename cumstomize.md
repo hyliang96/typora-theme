@@ -38,7 +38,7 @@ To finetune an existing base theme `[theme].css`, just create `[new-theme].css`,
 
 In the built-in theme `night`, the background color of inline code (`` `xxxx` ``)  and plain text is quite close, which hinders distinguishing. Like this:
 
-![ScreenShot 2019-12-05 16.56.11](cumstomize/ScreenShot%2019-12-05%16.56.11.png)
+![ScreenShot 2019-12-05 16.56.11](cumstomize/ScreenShot%202019-12-05%2016.56.11.png)
 
 To address this, we can darken the background color of inline code. 
 
