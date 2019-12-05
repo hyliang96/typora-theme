@@ -1,0 +1,10 @@
+@import "night.css";
+
+
+pre,
+code,
+kbd,
+tt,
+var {
+    background: #333;
+}
